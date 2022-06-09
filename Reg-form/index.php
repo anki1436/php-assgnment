@@ -178,6 +178,5 @@
             </div>
         </div>
         <script src="vendor/jquery/jquery.min.js"></script>
-        <script src="js/global.js"></script>
     </body>
     </html>
